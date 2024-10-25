@@ -7,7 +7,7 @@ Este proyecto busca ofrecer una experiencia interactiva de simulación, brindand
 
 ## Autores
 
-- [@micezer](https://github.com/micezer/AwareLang.git)
+- [@micezer](https://github.com/micezer/AwareLang.git)](https://github.com/micezer/Rubik-Cube-Virtual-Machine.git)
 
 ### Objetivo del Proyecto
 
